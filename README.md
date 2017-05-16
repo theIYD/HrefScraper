@@ -1,4 +1,6 @@
 ![Image](/assets/banner.png)
+
+[![GitHub issues](https://img.shields.io/github/issues/theIYD/HrefScrapper.svg)](https://github.com/theIYD/HrefScrapper/issues) [![GitHub forks](https://img.shields.io/github/forks/theIYD/HrefScrapper.svg)](https://github.com/theIYD/HrefScrapper/network) [![GitHub stars](https://img.shields.io/github/stars/theIYD/HrefScrapper.svg)](https://github.com/theIYD/HrefScrapper/stargazers) [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/theIYD/HrefScrapper/master/LICENSE) 
 # HrefScrapper
 
 A tiny chrome extension which scraps all the hrefs from a particular page and downloads them as a text document.
