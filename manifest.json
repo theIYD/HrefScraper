@@ -1,0 +1,14 @@
+{
+  "name": "Href Scrapper",
+  "description": "Scrap all the href's in a click.",
+  "version": "1.0",
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_title": "Href Scrapper",
+      "default_icon": "assets/icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
